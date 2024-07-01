@@ -1,8 +1,4 @@
-﻿
-using System.Data.SqlTypes;
-using System.Xml;
-
-/**
+﻿/**
  * Prvek spojoveho seznamu
  */
 public class Link
